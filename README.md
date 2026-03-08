@@ -2,7 +2,7 @@
 
 A comprehensive, production-ready CRM demo built for Thari Tech — modelled after Zoho CRM and HubSpot. Built as a single-file HTML application with zero dependencies, designed to demo to enterprise clients.
 
-**Live demo:** https://unam-spec.github.io/estateiq-crm/
+**Live demo:** (https://unam-spec.github.io/thari-tech/)
 
 ---
 
@@ -20,6 +20,7 @@ A comprehensive, production-ready CRM demo built for Thari Tech — modelled aft
 - **Reports & Analytics** — Monthly revenue bar chart, deals-by-stage funnel, rep leaderboard, lead source breakdown, and email performance stats
 
 **UI features:**
+
 - Notification bell with unread dropdown
 - Quick Add button with 4 shortcuts (Contact, Deal, Task, Sequence)
 - Full create/view modals for every entity
@@ -76,16 +77,16 @@ estateiq-crm/
 
 ## Modules Overview
 
-| Module | Records | Key Actions |
-|---|---|---|
-| Dashboard | — | View KPIs, activity, tasks |
-| Pipeline | 24 deals | Kanban view, create deal |
-| Contacts | 1,284 | Filter, view profile, email/call |
-| Companies | 284 | Table view, add company |
-| Deals | 42 | Filter by status, probability tracking |
-| Tasks | — | Check off tasks, view meetings |
-| Email Sequences | 3 | View steps, open/reply rates |
-| Reports | — | Revenue, win rate, rep performance |
+| Module          | Records  | Key Actions                            |
+| --------------- | -------- | -------------------------------------- |
+| Dashboard       | —        | View KPIs, activity, tasks             |
+| Pipeline        | 24 deals | Kanban view, create deal               |
+| Contacts        | 1,284    | Filter, view profile, email/call       |
+| Companies       | 284      | Table view, add company                |
+| Deals           | 42       | Filter by status, probability tracking |
+| Tasks           | —        | Check off tasks, view meetings         |
+| Email Sequences | 3        | View steps, open/reply rates           |
+| Reports         | —        | Revenue, win rate, rep performance     |
 
 ---
 
